@@ -1,5 +1,4 @@
-First Name: Aliya
-Last Name: Zhunusova
-Birthdate: 13.10.2004
-Group: IS-20-12b
-Date and Time: 16.02.2023 14:00
+FIO: Zhunusova Aliya Almazbekovna
+Age: 18
+Speciality: software developer
+Date and Time: the 16th of February 2023, two o'clock after noon
